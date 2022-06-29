@@ -4,7 +4,7 @@
 <c:if test="${ten != null}">
     <script>
         alert('Thêm thành công!')
-        window.location.href = "Trang-Chu"
+        window.location.href = "Cap-Nhat"
     </script>
 </c:if>
 <div id="content">
